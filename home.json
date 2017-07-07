@@ -9,7 +9,7 @@
         "$pull": {
           "type": "$href",
           "options": {
-            "url": "https://jasonbase.com/things/amRV"
+            "url": "https://gliechtenstein.github.io/todo-example/input.json"
           }
         },
         "do": {
